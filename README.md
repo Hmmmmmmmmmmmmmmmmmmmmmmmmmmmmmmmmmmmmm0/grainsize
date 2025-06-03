@@ -26,3 +26,7 @@
 - В правом верхнем углу находится **ползунок** для регулировки скорости охлаждения.
 - При нажатии на кнопку **«Рекристаллизовать»** генерируется новая структура зёрен.
 - Чем выше скорость охлаждения — тем **мельче** зерна.
+
+## Fullscreen: https://editor.p5js.org/Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm0/full/L_4VT0Xql
+## Edit https://editor.p5js.org/Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm0/sketches/L_4VT0Xql
+![изображение](https://github.com/user-attachments/assets/bf94a259-144a-42a0-b465-dcb82c68a068)
